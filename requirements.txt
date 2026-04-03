@@ -1,0 +1,8 @@
+mysql-connector-python==9.5.0
+Nuitka==2.8.10
+ordered-set==4.1.0
+PySide6==6.10.2
+PySide6_Addons==6.10.2
+PySide6_Essentials==6.10.2
+shiboken6==6.10.2
+zstandard==0.25.0

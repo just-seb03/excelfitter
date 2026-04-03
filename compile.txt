@@ -1,0 +1,1 @@
+python -m nuitka --standalone --enable-plugin=pyside6 --windows-console-mode=disable --include-package=mysql --windows-icon-from-ico=app_icon.ico --output-dir=dist main.py
